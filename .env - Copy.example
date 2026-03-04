@@ -1,0 +1,5 @@
+# Google Gemini API Key
+GOOGLE_API_KEY=AIzaSyD_HDx4nWh4t4osgQQZ3P8yzT-z_UFYuBk
+
+# Mock Mode (Set to true to test without API key)
+MOCK_MODE=true

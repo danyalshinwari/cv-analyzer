@@ -1,0 +1,14 @@
+streamlit
+SpeechRecognition
+pydub
+google-generativeai
+pdfplumber
+python-dotenv
+plotly
+pandas
+fpdf2
+streamlit-echarts
+numpy
+requests
+beautifulsoup4
+streamlit-mic-recorder
